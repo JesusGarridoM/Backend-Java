@@ -18,6 +18,5 @@ public class ScreenMago {
         screen.out(magoSelect.bdMago(magoOpt)); //Muestra la info en la screen
         screen.showImage("src/img/" + opt[magoOpt].toString().toLowerCase() + ".jpg"); //Muestra la imagen
         screen.setBounds(200,50,600,600);
-        screen.
     }
 }
