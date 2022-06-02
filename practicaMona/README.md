@@ -4,7 +4,7 @@ Esta práctica modela 6 versiones de Mona mediante herencia y polimorfismo
 
 ## Visuales
 <div>
-  <img alt="Practica Mona" src="./src/img/mona.gif" width="300" />
+  <img alt="Practica Mona" src="./src/img/mona.gif" width="600" />
 </div>
 
 ## Diagrama UML

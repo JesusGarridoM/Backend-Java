@@ -4,7 +4,7 @@ Esta práctica modela 5 personajes de la saga mediante setters, getters y constr
 
 ## Visuales
 <div>
-  <img alt="Practica Harry" src="./src/img/harry.gif" width="300" />
+  <img alt="Practica Harry" src="./src/img/harry.gif" width="600" />
 </div>
 
 ## Diagrama UML

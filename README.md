@@ -5,15 +5,15 @@ Es el portafolio de prácticas realizadas en el segmento de Backend de Launch X.
 ## Visuales
 ### Práctica Harry
 <div>
-  <img alt="Practica Harry" src="./practicaHarry/src/img/harry.gif" width="300" />
+  <img alt="Practica Harry" src="./practicaHarry/src/img/harry.gif" width="600" />
 </div>
 
 ### Práctica Mona
 <div>
-  <img alt="Practica Mona" src="./practicaMona/src/img/mona.gif" width="300" />
+  <img alt="Practica Mona" src="./practicaMona/src/img/mona.gif" width="600" />
 </div>
 
 ### Práctica Multiverse
 <div>
-  <img alt="Practica Multiverse" src="./practicaMultiverse/src/img/spider.gif" width="300" />
+  <img alt="Practica Multiverse" src="./practicaMultiverse/src/img/spider.gif" width="600" />
 </div>
